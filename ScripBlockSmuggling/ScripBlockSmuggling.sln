@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScripBlockSmuggling", "ScripBlockSmuggling\ScripBlockSmuggling.csproj", "{5D4E7C1F-4812-4038-9663-6CD277ED9AD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D4E7C1F-4812-4038-9663-6CD277ED9AD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D4E7C1F-4812-4038-9663-6CD277ED9AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D4E7C1F-4812-4038-9663-6CD277ED9AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D4E7C1F-4812-4038-9663-6CD277ED9AD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2FB6796-9987-4BE4-BA86-A18135E785D4}
+	EndGlobalSection
+EndGlobal
